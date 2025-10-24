@@ -33,19 +33,6 @@ python boxing_test/test_webcam.py
 
 python boxing_test/test.py
 
-
-### Usage
-
-**Live Webcam Detection:**
-```bash
-python boxing_test/test_webcam.py
-```
-
-**Video File Analysis:**
-```bash
-python boxing_test/test.py
-```
-
 ## Model Details
 
 - **Architecture**: YOLOv8 Pose
