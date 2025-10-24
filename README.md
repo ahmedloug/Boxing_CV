@@ -51,9 +51,8 @@ Training data sourced from [Roboflow Punch Detector Dataset](https://universe.ro
 - Press `q` or `Esc` to quit webcam mode
 - Annotated videos are saved to `runs/pose/predict*`
 
----
 
-*For detailed model architecture explanation, see ModelExplanation.md*
-```
+
+
 
 
