@@ -33,35 +33,6 @@ python boxing_test/test_webcam.py
 
 python boxing_test/test.py
 
-## Model Details 
-
-
-```markdown
-# Boxing CV - Punch Detection System
-
-A real-time boxing punch detection system using YOLOv8 Pose estimation to classify different boxing moves.
-
-## Overview
-
-This project uses a fine-tuned YOLOv8 model to detect and classify boxing punches in real-time from webcam input or video files. The model can identify:
-- **Hook Punch**
-- **Straight Punch** 
-- **Uppercut**
-- **Neutral** (idle/transition states)
-
-## Features
-
-- Real-time webcam punch detection
-- Video file analysis
-- Keypoint-based pose estimation (13 body joints)
-- Confidence scoring for predictions
-
-## Quick Start
-
-### Requirements
-```bash
-pip install ultralytics opencv-python
-```
 
 ### Usage
 
