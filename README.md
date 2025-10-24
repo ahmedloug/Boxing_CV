@@ -35,7 +35,6 @@ python boxing_test/test.py
 
 ## Model Details 
 
-Sorry for any frustration. Here is your complete README in one clean, copyable Markdown block:
 
 ```markdown
 # Boxing CV - Punch Detection System
@@ -99,5 +98,4 @@ Training data sourced from [Roboflow Punch Detector Dataset](https://universe.ro
 *For detailed model architecture explanation, see ModelExplanation.md*
 ```
 
-You can copy and paste this entire block into your `README.md` file.
-You can copy and paste this entire block into your `README.md` file.
+
